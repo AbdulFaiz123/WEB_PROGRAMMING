@@ -1,5 +1,7 @@
-HELLO,Welcome to my portfolio,
-Simple Calculator.
+HELLO,Welcome to my portfolio:
+
+
+1.Simple Calculator
 
 Operation Involved:
 
